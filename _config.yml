@@ -1,10 +1,10 @@
-id: 129
+id: 130
 user: eq19
-span: span-110
+span: span-111
 title: eQuantum
-baseurl: /jekyll
-repository: ObjectModules/jekyll
-action: ObjectModules/gtm/actions/runs/15071487666
+baseurl: /alzheimer
+repository: ObjectModules/alzheimer
+action: ObjectModules/jekyll/actions/runs/15073062182
 description: ₠Quantum Project
 
 #debug:
@@ -48,6 +48,6 @@ plugins:
   - jekyll-optional-front-matter
 
 track:
-  spin: [9, 11]
+  spin: [9, 12]
   pinned: [maps, feed, lexer, parser, syntax, grammar, steps, bash, store, gtm, jekyll, alzheimer]
   organization: [Chetabahana, FeedMapping, GlobalZones, HybridModels, JunctionTerms, KernelPatterns, MappingSystem, NeuralSystem, ObjectModules, VirtualNetworks, WeakNegative, WeakPositive, ZeroWeak]
